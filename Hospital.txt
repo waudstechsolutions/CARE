@@ -1,2 +1,4 @@
 It is located in Banjarahills.
 City: Hyderabad.
+State: Telangana.
+Country: India.
