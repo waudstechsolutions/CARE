@@ -1,7 +1,0 @@
-It is located in Banjarahills.
-City: Hyderabad.
-State: Telangana.
-Country: India.
-Edited in GitHub browser.
-Edited in notepad.
-One more comment to notepad.
